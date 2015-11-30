@@ -21,6 +21,7 @@ JavaScriptにより幅広い表現が可能です。
 ---
 - ガイドがある→初心者でもプログラミングできる。   
 ![fff](http://www.engineyard.co.jp/blog/images/blog-images-jp/2014/04/codecombat.png)
+
 ---
 - アルゴリズムの組める→構文を意識できたコーディングができる。
 ---
